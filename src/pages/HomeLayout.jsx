@@ -9,7 +9,7 @@ const HomeLayout = () => {
         </section>
       </main>
       <footer className=" p-4 text-center text-white  mt-8">
-        <p>Developed by &copy; Samruddh PK </p>
+        <p className="font-semibold">Developed by &copy; Samruddh PK </p>
       </footer>
     </>
   );
